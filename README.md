@@ -50,7 +50,7 @@ put gmap.php in `libraries/joomla/form/fields` directory
     description = "click to select location"
     longitude = "40.423452" 
     latitude = "41.253335"  
-    key = "AIzaSyCoDjF5GCTLPwUWBrFPG6e38anH7yiDjmI"
+    key = "YOUR_KEY_HERE"
     widht = "100px" 
     height = "200px" 
 </field>
