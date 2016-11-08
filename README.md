@@ -11,7 +11,7 @@ you will get value of this form field in JSON format.
 ####examle:
 
 ```json
-{"longitude": longitude of selected location ,"latitude": latitude of selected location ,"address":"address of selected location in english"}
+{"longitude": "longitude of selected location" ,"latitude": "latitude of selected location" ,"address":"address of selected location in english"}
 ```
 
 
