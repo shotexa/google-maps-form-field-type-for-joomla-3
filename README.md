@@ -23,7 +23,7 @@ you will get value of this form field in JSON format.
 
 ### local installation (custom component only)
 
-grab gmap.php and put it in your component's administrator part in models/fields directory
+grab gmap.php and put it in your component's administrator part in `models/fields` directory
 
 ### global installation (available in all extensions)
 put gmap.php in `libraries/joomla/form/fields` directory
