@@ -3,12 +3,13 @@ Google Maps form field type for joomla 3.0
 
 
 
-##description 
+## description 
 
 Form field allows you to easily select location in extensions. 
 
 you will get value of this form field in JSON format.
-####examle:
+
+### examle:
 
 ```json
 {"longitude": "longitude of selected location" ,"latitude": "latitude of selected location" ,"address":"address of selected location in english"}
@@ -40,7 +41,7 @@ put gmap.php in `libraries/joomla/form/fields` directory
 8. `widht` (optional) optional, width of rendered google maps
 9. `height` (optional) height of rendered google maps
 
-####example
+#### example
 
 ```xml
 <field
